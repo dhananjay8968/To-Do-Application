@@ -1,5 +1,5 @@
 # To-Do-Application
-Hosted Link : https://dhananjay8968.github.io/To-Do-Application/
+Hosted Link : https://dhananjay8968.github.io/To-Do-Application/ <br />
 To run locally:
 1) git clone repolink
 2) cd to-do-application
